@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Ejemplo formulario</h1>
+    <form action="gestionar.php" method="post" name="formulario 1">
+       <p> 
+       <label> Nombre:
+       <input type="text" name="nombre" placeholder="Nombre" maxlength="10"/>
+       </label>
+       </p>
+       <p>
+       <label> Fecha de nacimiento:
+       <input type="date" name="nacimiento" placeholder="Nacimiento"/>
+       </label>
+       </p>
+       <p>
+       <label> Número de horas:
+       <input type="number" name="nhoras" placeholder="Horas" title="Horas diarias videojuegos"/>
+       </label>
+       </p>
+       <p>
+       <label> email:
+       <input type="email" name="email" placeholder="email"/>
+       </label>
+       </p>
+
+       
+       <p>
+       <label> VC:
+       <input type="checkbox" name="vc1" value="PS"/>PS
+       <input type="checkbox" name="vc1" value="XB"/>XB
+       <input type="checkbox" name="vc1" value="NT"/>NT
+       <input type="checkbox" name="vc1" value="PC"/>PC
+       </label>
+       </p>
+
+       <p>
+       <label> Elige juego preferido:
+       <input type="radio" name="vjp" value="lol"/>lol
+       <input type="radio" name="vjp" value="for"/>Fortnite
+       <input type="radio" name="vjp" value="di"/>Diablo
+       <input type="radio" name="vjp" value="fifa"/>Fifa
+       </label>
+       </p>
+
+       <p>
+       <textarea name="descripción"  cols="30" rows="10"> Descripción</textarea>
+
+       <select name="grupos" id="">
+           <option value="1">1 DAW</option>
+           <option value="2">2 DAW</option>
+           <option value="3">1 ASIR</option>
+           <option value="4">2 ASIR</option>
+       </select>
+       </p>
+
+
+       <p>
+        <input type="submit" name="submit" value="Enviar"/>
+       </p>
+
+
+    </form>
+</body>
+</html>

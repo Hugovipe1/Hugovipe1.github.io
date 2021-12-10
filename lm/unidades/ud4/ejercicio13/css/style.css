@@ -1,0 +1,15 @@
+img {
+    display: block;
+    filter:invert(100%);
+    width: 200px;
+    animation: myAnimation 2s ease  1s 3 alternate forwards;
+
+}
+@keyframes myAnimation {
+    40%{
+        transform: rotate(360deg);
+    }
+    50%{
+        transform: scale(2,0.5);
+    }
+} 
