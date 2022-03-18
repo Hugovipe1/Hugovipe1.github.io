@@ -1,0 +1,49 @@
+.divPrincipal {
+    display: grid;
+    grid-template-areas: "header" "nav" "contenido" "footer";
+    grid-template-columns: 1fr;
+    grid-template-rows: 10vh 5vh 75vh 5vh;
+    margin: 0;
+    height: 100vh;
+}
+
+#header {
+    grid-area: header;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+#nav {
+    grid-area: nav;
+    background-color: orange;
+    border: 1px solid black;
+}
+
+nav ul {
+    gap: 10px;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li a {
+    color: black;
+}
+
+.enlacenav {
+    margin: 10px;
+    color: black;
+}
+
+#contenido {
+    margin: 0;
+    grid-area: contenido;
+    background-image: url(../images/CordobaInicio.jpg);
+    background-size: cover;
+    color: white;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    font-size: 3em;
+}
