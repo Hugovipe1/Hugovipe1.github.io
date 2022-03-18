@@ -1,1 +1,0 @@
-¿Cuál fue el primer lenguaje de formato de estándar?{~SGML=GML~HTML}¿Quién creó HTML?{~Goldfar=Tim Berners-Lee~Newton}¿Qué elemento está en el cuerpo del documentos?{~Prólogo=Etiqueta de inicio}Marca cuál crees que es un lenguaje de marcas descriptivo{=XML~HTML~Postcript}¿Cuál de estos lenguajes es una versión simplificada de SGML?{~XML~GML=HTML}
