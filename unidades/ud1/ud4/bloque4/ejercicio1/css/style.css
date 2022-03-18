@@ -1,0 +1,22 @@
+#div1{
+    background-image: url(../image/images.jpeg);
+    text-align: center;
+    padding: 5%;
+    margin-bottom: 5%;
+    width: 20%;
+    border: 2px black solid;
+}
+#div2{
+    text-align: center;
+    border: 1px black solid;
+    padding: 5%;
+    width: 20%;
+}
+#div3{
+    background-image: url(../image/images.jpeg);
+    text-align: center;
+    padding: 5%;
+    margin-top: 5%;
+    width: 20%;
+    border: 2px black solid;
+}

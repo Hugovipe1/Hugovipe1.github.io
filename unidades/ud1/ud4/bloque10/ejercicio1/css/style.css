@@ -1,0 +1,23 @@
+#div1{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin-bottom: 5%;
+    transition: widht 2s;
+    transition-timing-function: ease-in-out;
+
+}
+#div1:hover{
+    width: 300px;
+}
+#div2{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    transition: background 2s , transform 2s
+
+}
+#div2:hover{
+    background: blue;
+    transform: rotate(180deg);
+}
