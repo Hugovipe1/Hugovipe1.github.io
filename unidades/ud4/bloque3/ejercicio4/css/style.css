@@ -1,0 +1,28 @@
+.name{
+    color: orange;
+    margin-right: 50%;
+    border: 2px solid black;
+}
+#p1{
+    
+    
+    padding: 4%;
+    outline-offset: 5px ;
+    outline-style: solid;
+    outline-width: 3px;
+    outline-color: orange;
+}
+#p2{
+    
+    padding: 4%;
+    outline-style: solid;
+    outline-width: 3px;
+    outline-color: green;
+}
+#p3{
+    
+    padding: 4%;
+    outline-style: dotted;
+    outline-width: 3px;
+    outline-color:orange;
+}

@@ -1,0 +1,29 @@
+.name:hover{
+    background-color: grey;
+
+}
+.name{
+    color: blue;
+    padding: 2%;
+    
+
+
+}
+#p1{
+    border: 2px  solid blue;
+
+}
+#p2{
+    border: 2px solid green ;
+}
+#p3{
+    border-top: 2px solid purple;
+    border-right: 20px solid green;
+    border-bottom: 2px solid blue;
+    border-left: 2px solid black;
+}
+#p4{
+    border: 2px dotted yellow;
+}
+
+
