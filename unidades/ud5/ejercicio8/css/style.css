@@ -1,0 +1,37 @@
+body {
+    display: grid;
+    grid-template-areas: "header header header" "nav1 article aside" "footer footer footer";
+    grid-template-rows: 50px 1fr 50px;
+    grid-template-columns: 20% 1fr 15%;
+    gap: 5px;
+    height: 100vh;
+    margin: 0;
+}
+
+header,
+footer,
+article,
+div,
+nav {
+    background-color: red;
+}
+
+#header {
+    grid-area: header;
+}
+
+#nav {
+    grid-area: nav1;
+}
+
+#article {
+    grid-area: article;
+}
+
+#aside {
+    grid-area: aside;
+}
+
+#footer {
+    grid-area: footer;
+}

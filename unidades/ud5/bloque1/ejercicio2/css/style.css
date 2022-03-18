@@ -1,0 +1,16 @@
+#div1 {
+    min-width: 10vw;
+    text-align: center;
+    min-height: 30vh;
+    font-size: 7em;
+}
+
+.div {
+    display: flex;
+    background-color: bisque;
+    width: 700px;
+}
+
+#div2 {
+    width: 500px;
+}
