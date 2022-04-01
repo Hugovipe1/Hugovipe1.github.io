@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>
+            Página de Hugo Vicente Peligro
+        </title>
+        <link>
+            https://hugovipe1.github.io
+
+        </link>
+        <description>
+            Página web de Hugo Vicente Peligro
+
+
+        </description>
+        <item>
+            <title>
+                Ejercicio1
+            </title>
+            <link>
+                https://hugovipe1.github.io/trabajoLm/unidades/ud5/bloque1/ejercicio3/index.html
+            </link>
+            <description>
+                Ejercicio 1 de html con CSS
+            </description>
+        </item>
+
+        <item>
+            <title>
+                Ejercicio2
+            </title>
+            <link>
+                https://hugovipe1.github.io/trabajoLm/unidades/ud4/bloque2/ejercicio5/index.html
+            </link>
+            <description>
+                Ejercicio 2 de html con CSS
+            </description>
+        </item>
+    </channel>
+</rss>
