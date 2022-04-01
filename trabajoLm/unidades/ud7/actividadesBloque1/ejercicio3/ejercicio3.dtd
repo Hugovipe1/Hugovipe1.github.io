@@ -1,0 +1,4 @@
+<!ELEMENT marcadores (marcador+)>
+<!ELEMENT marcador (nombre, uri)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT uri (#PCDATA)>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="numero_binario">
+        <xs:complexType >
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="uno" maxOccurs="unbounded" >
+                <xs:simpleType>
+                    <xs:restriction base="xs:integer" >
+                        <xs:enumeration value="1"></xs:enumeration>
+
+                    </xs:restriction>
+
+                </xs:simpleType>
+            </xs:element>
+            <xs:element name="cero" >
+                <xs:simpleType>
+                    <xs:restriction base="xs:integer">
+                        <xs:enumeration value="0"></xs:enumeration>
+
+                    </xs:restriction>
+                </xs:simpleType>
+
+            </xs:element>
+        </xs:choice>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

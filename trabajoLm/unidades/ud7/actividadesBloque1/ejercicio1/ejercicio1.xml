@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mensaje>
+    <remite>
+        <nombre>
+
+        </nombre>
+        <email>
+
+        </email>
+    </remite>
+    <destinatario>
+        <nombre>
+
+        </nombre>
+        <email>
+
+        </email>
+
+    </destinatario>
+    <asunto>
+        
+
+    </asunto>
+    <texto>
+        <parrafo>
+            ¿Hola qué tal?
+        </parrafo>
+        <parrafo>Hace mucho tiempo que no me escribes. A ver si llamas y quedamos pronto</parrafo>
+
+    </texto>
+</mensaje>

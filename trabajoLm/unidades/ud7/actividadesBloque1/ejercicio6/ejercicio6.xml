@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE matricula SYSTEM "ejercicio6.dtd">
+<!-- Ejercicio 9 de las actividades-->
+<matricula>
+    <personal>
+        <dni>99223366M</dni>
+        <nombre>Juan Pardo Martín</nombre>
+        <titulacion>Ingeniería Informática</titulacion>
+        <curso_academico>1997/1998</curso_academico>
+        <domicilios>
+            <domicilio tipo="familiar">
+                <nombre_calle>C/ Principal no1</nombre_calle>
+            </domicilio>
+            <domicilio tipo="habitual">
+                <nombre_calle>C/ Secundaria no2</nombre_calle>
+            </domicilio>
+        </domicilios>
+    </personal>
+    <pago>
+        <tipo_matricula>Matrícula Ordinaria</tipo_matricula>
+    </pago>
+</matricula>

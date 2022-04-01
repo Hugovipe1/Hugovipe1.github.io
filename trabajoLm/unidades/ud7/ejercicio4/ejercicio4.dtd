@@ -1,0 +1,6 @@
+<!ELEMENT personas (persona*)>
+<!ELEMENT persona (nombre, mayor_de_edad, ciudad)>
+<!ATTLIST persona forma_pago (Bizum|Tarjeta|Contado) "Bizum">
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT mayor_de_edad (#PCDATA)>
+<!ELEMENT ciudad (#PCDATA)>

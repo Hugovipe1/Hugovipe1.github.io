@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE futbol SYSTEM "ejercicio7.dtd">
+<!-- Ejercicio 10-->
+<futbol>
+    <jugador nombre="Alfredo Di Stéfano" codigo="codigo1"/>
+    <jugador nombre="Edson Arantes do Nascimento" codigo="codigo2" />
+    <jugador nombre="Diego Armando Maradona" codigo="codigo3" />
+    <jugador nombre="Johan Cruyff" codigo="codigo4" />
+</futbol>

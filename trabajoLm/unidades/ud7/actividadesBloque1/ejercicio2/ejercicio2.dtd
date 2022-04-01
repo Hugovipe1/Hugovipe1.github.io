@@ -1,0 +1,4 @@
+<!ELEMENT escritores (escritor*)>
+    <!ELEMENT escritor (nombre, nacimiento)>
+    <!ELEMENT nombre (#PCDATA)>
+    <!ELEMENT nacimiento (#PCDATA)>
