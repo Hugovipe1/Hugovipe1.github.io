@@ -29,5 +29,49 @@
         <link href="https://hugovipe1.github.io/trabajoLm/unidades/ud7/actividadesBloque1/ejercicio4/ejercicio4.xml"/>
     </entry>
 
+    <entry>
+        <id>https://hugovipe1.github.io/trabajoLm/unidades/ud9/xslt/ejercicioAemet/aemet.xml</id>
+        
+        <title>Ejercicio Aemet</title>
+        <updated>2022-04-01T12:15:29Z</updated>
+        
+        <link href="https://hugovipe1.github.io/trabajoLm/unidades/ud9/xslt/ejercicioAemet/aemet.xml"/>
+    </entry>
+    <entry>
+        <id>https://hugovipe1.github.io/trabajoLm/unidades/ud9/xslt/ejercicio4Repaso/ejercicio4.xml</id>
+        
+        <title>Ejercicio 4 XSLT</title>
+        <updated>2022-04-01T12:15:29Z</updated>
+        
+        <link href="https://hugovipe1.github.io/trabajoLm/unidades/ud9/xslt/ejercicio4Repaso/ejercicio4.xml"/>
+    </entry>
+
+    <entry>
+        <id>https://hugovipe1.github.io/trabajoLm/unidades/ud9/xslt/ejercicio5Repaso/ejercicio5.xml</id>
+        
+        <title>Ejercicio 5 XSLT</title>
+        <updated>2022-04-01T12:15:29Z</updated>
+        
+        <link href="https://hugovipe1.github.io/trabajoLm/unidades/ud9/xslt/ejercicio5Repaso/ejercicio5.xml"/>
+    </entry>
+
+    <entry>
+        <id>https://hugovipe1.github.io/trabajoLm/unidades/ud11/PresentacionERPHugoVicente</id>
+        
+        <title>Presentacion Sistema ERP</title>
+        <updated>2022-04-01T12:15:29Z</updated>
+        
+        <link href="https://hugovipe1.github.io/trabajoLm/unidades/ud11/PresentacionERPHugoVicente"/>
+    </entry>
+
+    <entry>
+        <id>https://hugovipe1.github.io/trabajoLm/unidades/ud11/GuiaInstalacionDeOdooHugoVicente</id>
+        
+        <title>Guia Instalacion de Odoo</title>
+        <updated>2022-04-01T12:15:29Z</updated>
+        
+        <link href="https://hugovipe1.github.io/trabajoLm/unidades/ud11/GuiaInstalacionDeOdooHugoVicente"/>
+    </entry>
+
 
 </feed>
