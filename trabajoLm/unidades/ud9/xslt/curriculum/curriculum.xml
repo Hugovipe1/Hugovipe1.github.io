@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="curriculum.xsl" type="text/xsl"?>
+
+<curriculum_vitae>
+    <datos_personales>
+        <nombre>María</nombre>
+        <apellidos>Cervilla Alcalde</apellidos>
+        <fecha_nacimiento>14/09/1998</fecha_nacimiento>
+        <foto_personal>img.jpg</foto_personal>
+        <blog_personal></blog_personal>
+        <rss>
+            <rs>
+                <logo>twitter.png</logo>
+                <nombre>Twitter</nombre>
+                <enlace>twitter.com</enlace>
+            </rs>
+            <rs>
+                <logo>linkedin.png</logo>
+                <nombre>Linkedin</nombre>
+                <enlace>linkedin.com</enlace>
+            </rs>
+        </rss>
+    </datos_personales>
+    <formacion_academica>
+        <titulaciones>
+            <titulacion>
+                <nombre></nombre>
+                <fecha_obtencion></fecha_obtencion>
+            </titulacion>
+            <titulacion>
+                <nombre></nombre>
+                <fecha_obtencion></fecha_obtencion>
+            </titulacion>
+        </titulaciones>
+    </formacion_academica>
+    <idiomas>
+        <idioma>
+            <nombre>Inglés</nombre>
+            <nivel>
+                <listening>B1</listening>
+                <writing>B1</writing>
+                <reading>B1</reading>
+            </nivel>
+        </idioma>
+        <idioma>
+            <nombre>Francés</nombre>
+            <nivel>
+                <listening>A1</listening>
+                <writing>A1</writing>
+                <reading>A2</reading>
+            </nivel>
+        </idioma>
+    </idiomas>
+    <experiencia_laboral>
+        <experiencia fecha_inicio='01/04/2022' fecha_final='29/04/2022'>
+            <cargo>Portero del Real Madrid</cargo>
+            <descripcion>El que abre la puerta</descripcion>
+        </experiencia>
+        <experiencia fecha_inicio='01/04/2022' fecha_final='29/04/2022'>
+            <cargo>Jardinero del campo del Real Madrid</cargo>
+            <descripcion></descripcion>
+        </experiencia>
+    </experiencia_laboral>
+
+
+</curriculum_vitae>

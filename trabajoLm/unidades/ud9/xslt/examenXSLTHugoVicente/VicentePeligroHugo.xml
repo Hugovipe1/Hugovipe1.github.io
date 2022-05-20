@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="enlaces.xsl" type="text/xsl"?>
+<informatica>
+    <cursos>
+        <curso clase="1daw">
+            <horario>
+              <lunes>
+                  <primera>Programacion</primera>
+                  <segunda>Programacion</segunda>
+                  <tercera>Lenguaje de Marcas</tercera>
+                  <cuarta>Lenguaje de Marcas</cuarta>
+                  <quinta>Base de Datos</quinta>
+                  <sexta>Base de Datos</sexta>
+              </lunes>
+              <martes>
+                  <primera>EED</primera>
+                  <segunda>Sistemas</segunda>
+                  <tercera>Sistemas</tercera>
+                  <cuarta>Sistemas</cuarta>
+                  <quinta>Programacion</quinta>
+                  <sexta>Programacion</sexta>
+              </martes>
+              <miercoles>
+              <primera>Programacion</primera>
+                  <segunda>Programacion</segunda>
+                  <tercera>Base de Datos</tercera>
+                  <cuarta>Base de Datos</cuarta>
+                  <quinta>FOL</quinta>
+                  <sexta>FOL</sexta>
+              </miercoles>
+              <jueves>
+                  <primera>EED</primera>
+                  <segunda>EED</segunda>
+                  <tercera>Sistemas</tercera>
+                  <cuarta>Sistemas</cuarta>
+                  <quinta>Sistemas</quinta>
+                  <sexta>FOL</sexta>
+              </jueves>
+              <viernes>
+                  <primera>Base de Datos</primera>
+                  <segunda>Base de Datos</segunda>
+                  <tercera>Lenguaje de Marcas</tercera>
+                  <cuarta>Lenguaje de Marcas</cuarta>
+                  <quinta>Programacion</quinta>
+                  <sexta></sexta>
+              </viernes>
+            </horario>
+        </curso>
+         <curso clase="1asir">
+            <horario>
+              <lunes>
+                  <primera>Base de Datos</primera>
+                  <segunda>Base de Datos</segunda>
+                  <tercera>Base de Datos</tercera>
+                  <cuarta>Lenguaje de Marcas</cuarta>
+                  <quinta>Lenguaje de Marcas</quinta>
+                  <sexta>Lenguaje de Marcas</sexta>
+              </lunes>
+              <martes>
+                  <primera>Redes</primera>
+                  <segunda>Redes</segunda>
+                  <tercera>Redes</tercera>
+                  <cuarta>FOL</cuarta>
+                  <quinta>FOL</quinta>
+                  <sexta>FOL</sexta>
+              </martes>
+              <miercoles>
+                  <primera>Sistemas</primera>
+                  <segunda>Sistemas</segunda>
+                  <tercera>Sistemas</tercera>
+                  <cuarta>Sistemas</cuarta>
+                  <quinta>Sistemas</quinta>
+                  <sexta>Sistemas</sexta>
+              </miercoles>
+              <jueves>
+              <primera>Base de Datos</primera>
+                  <segunda>Base de Datos</segunda>
+                  <tercera>Base de Datos</tercera>
+                  <cuarta>Base de Datos</cuarta>
+                  <quinta>Base de Datos</quinta>
+                  <sexta>Base de Datos</sexta>
+              </jueves>
+              <viernes>
+              <primera>Redes</primera>
+                  <segunda>Redes</segunda>
+                  <tercera>Redes</tercera>
+                  <cuarta>Redes</cuarta>
+                  <quinta>Lenguaje de Marcas</quinta>
+                  <sexta>Lenguaje de Marcas</sexta>
+              </viernes>
+            </horario>
+        </curso>
+    </cursos>
+    </informatica>
